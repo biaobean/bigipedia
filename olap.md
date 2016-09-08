@@ -6,6 +6,8 @@
 3) Kyvos Insights - MOLAP
 Druid http://druid.io/druid.html
  https://lens.apache.org/
+ 
+ http://calcite.apache.org/
 
 
 ## 参考资料
