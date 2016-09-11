@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [OLAP](olap.md)
-* DI
+* [DI](di.md)
 
