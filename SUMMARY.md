@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [OLAP](olap.md)
-   * carbondata
+   * [carbondata](carbondata.md)
 * [DI](di.md)
 
