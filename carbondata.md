@@ -1,5 +1,7 @@
 # CarbonData
 
+华为宣布开源的[CarbonData项目](https://github.com/apache/incubator-carbondata)于2016年6月3日通过Apache社区投票，成功进入Apache孵化器。CarbonData是一种低时延查询、存储和计算分离的轻量化文件存储格式。
+
 针对数据的需求分析主要有以下5点要求：
 
 1. 支持海量数据扫描并取其中几列；
